@@ -1,2 +1,2 @@
 # ninjawall
-Ninjawall is a non complicated Firewall that is intended to control iptables easily.
+Ninjawall is a user-friendly firewall solution designed to simplify the management of iptables.
